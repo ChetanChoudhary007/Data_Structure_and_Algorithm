@@ -47,6 +47,12 @@ Below is a list of DSA problems available in this repository:
    - Difficulty: Medium
    - Tags: `Array`,`Kadane's Algorithm`
    - [Solution:4](https://github.com/ChetanChoudhary007/Data_Structure_and_Algorithm/blob/main/Array_medium/maximum_subarray.py)
+
+5. Problem 5: [SuperiorElements](superiorElements)
+   - Description: Given an array, print all the elements which are leaders. A Leader is an element that is greater than all of the elements on its right side in the array
+   - Difficulty: Easy
+   - Tags: `Array`,`Basic`
+   - [Solution:5](https://github.com/ChetanChoudhary007/Data_Structure_and_Algorithm/blob/main/Arary_Easy/Superior_elements.py)
      
 <!-- Add more problems as needed -->
 
