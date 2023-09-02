@@ -27,14 +27,26 @@ Below is a list of DSA problems available in this repository:
 1. Problem 1: [countBits](countBits)
    - Description: Given an integer n, return an array of length n + 1 such that for each i (0 <= i <= n), ans[i] is the number of 1's in the binary representation of i.
    - Difficulty: Easy.
-   - Tags: `Array`, `binary represtation`
-   - [Solution 1](https://github.com/ChetanChoudhary007/Data_Structure_and_Algorithm/blob/main/Arary_Easy/countBits.py)
+   - Tags: `Array`
+   - [Solution:1](https://github.com/ChetanChoudhary007/Data_Structure_and_Algorithm/blob/main/Arary_Easy/countBits.py)
 
 2. Problem 2: [NextPermutation](NextPermutation)
    - Description: A permutation of an array of integers is an arrangement of its members into a sequence or linear order.
    - Difficulty: Medium
    - Tags: `Array`
-   - [Solution 2](https://github.com/ChetanChoudhary007/Data_Structure_and_Algorithm/blob/main/Array_medium/next_permutation.py)
+   - [Solution:2](https://github.com/ChetanChoudhary007/Data_Structure_and_Algorithm/blob/main/Array_medium/next_permutation.py)
+
+3. Problem 3: [RevreseInteger](reverseInteger)
+   - Description: Given a signed 32-bit integer x, return x with its digits reversed. If reversing x causes the value to go outside the signed 32-bit integer range [-231, 231 - 1], then       return 0.
+   - Difficulty: Medium
+   - Tags: `Array`
+   - [Solution:3](https://github.com/ChetanChoudhary007/Data_Structure_and_Algorithm/blob/main/Array_medium/reverse_number.py)
+     
+4. Problem 4: [MaximumSubarray](maximumSubarray)
+   - Description: Given an integer array nums, find the subarray with the largest sum, and return its sum.
+   - Difficulty: Medium
+   - Tags: `Array`,`Kadane's Algorithm`
+   - [Solution:4](https://github.com/ChetanChoudhary007/Data_Structure_and_Algorithm/blob/main/Array_medium/maximum_subarray.py)
      
 <!-- Add more problems as needed -->
 
