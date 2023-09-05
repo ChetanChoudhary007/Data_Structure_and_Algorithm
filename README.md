@@ -53,6 +53,29 @@ Below is a list of DSA problems available in this repository:
    - Difficulty: Easy
    - Tags: `Array`,`Basic`
    - [Solution:5](https://github.com/ChetanChoudhary007/Data_Structure_and_Algorithm/blob/main/Arary_Easy/Superior_elements.py)
+
+
+6. Problem 6: [3Sum](3Sum)
+   - Description: Given an integer array nums, return all the triplets [nums[i], nums[j], nums[k]] such that i != j, i != k, and j != k, and nums[i] + nums[j] + nums[k] == 0.
+Notice that the solution set must not contain duplicate triplets.
+   - Difficulty: Medium
+   - Tags: `Array`,`Two pointer approach`
+   - [Solution:6](https://github.com/ChetanChoudhary007/Data_Structure_and_Algorithm/blob/main/Array_medium/3Sum.py)
+
+7. Problem 7: [4Sum](4Sum)
+   - Description:Given an array nums of n integers, return an array of all the unique quadruplets [nums[a], nums[b], nums[c], nums[d]] such that:
+a).0 <= a, b, c, d < n
+b). a, b, c, and d are distinct.
+c). nums[a] + nums[b] + nums[c] + nums[d] == target
+   - Difficulty: Medium
+   - Tags: `Array`,`Two pointer approach`
+   - [Solution:7](https://github.com/ChetanChoudhary007/Data_Structure_and_Algorithm/blob/main/Array_medium/4Sum.py)
+
+8. Problem 8: [Search_2D_matrix](Search_2D_matrix)
+   - Description: Given an integer target, return true if target is in matrix or false otherwise.
+   - Difficulty: Medium
+   - Tags: `Array`,`matrix undertanding`
+   - [Solution:8](https://github.com/ChetanChoudhary007/Data_Structure_and_Algorithm/blob/main/Array_medium/search2D_matrix.py)
      
 <!-- Add more problems as needed -->
 
