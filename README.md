@@ -37,7 +37,7 @@ Below is a list of DSA problems available in this repository:
    - [Solution:2](https://github.com/ChetanChoudhary007/Data_Structure_and_Algorithm/blob/main/Array_medium/next_permutation.py)
 
 3. Problem 3: [RevreseInteger](reverseInteger)
-   - Description: Given a signed 32-bit integer x, return x with its digits reversed. If reversing x causes the value to go outside the signed 32-bit integer range [-231, 231 - 1], then       return 0.
+   - Description: Given a signed 32-bit integer x, return x with its digits reversed. If reversing x causes the value to go outside the signed 32-bit integer range [-2^31, 2^(31 - 1)],    then return 0.
    - Difficulty: Medium
    - Tags: `Array`
    - [Solution:3](https://github.com/ChetanChoudhary007/Data_Structure_and_Algorithm/blob/main/Array_medium/reverse_number.py)
@@ -76,7 +76,13 @@ c). nums[a] + nums[b] + nums[c] + nums[d] == target
    - Difficulty: Medium
    - Tags: `Array`,`matrix undertanding`
    - [Solution:8](https://github.com/ChetanChoudhary007/Data_Structure_and_Algorithm/blob/main/Array_medium/search2D_matrix.py)
-     
+
+9. Problem 9: [RotateMatrix](RotateMatrix)
+   - Description: You are given an n x n 2D matrix representing an image, rotate the image by 90 degrees (clockwise).
+      You have to rotate the image in-place, which means you have to modify the input 2D matrix directly. DO NOT allocate another 2D matrix and do the rotation.
+   - Difficulty: Medium
+   - Tags: `Array`,`matrix undertanding`
+   - [Solution:9](https://github.com/ChetanChoudhary007/Data_Structure_and_Algorithm/blob/main/Array_medium/Rotate_matrix.py)
 <!-- Add more problems as needed -->
 
 ## Solutions
