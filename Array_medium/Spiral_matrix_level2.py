@@ -1,5 +1,5 @@
 class Solution:
-    def generateMatrix(self, n: int) -> List[List[int]]:
+    def generateMatrix(self, n: int) -> list[list[int]]:
 
         # create the matrix
         matrix=[[0 for i in range(n)]for i in range(n)]
