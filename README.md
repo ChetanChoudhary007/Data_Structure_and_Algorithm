@@ -115,7 +115,21 @@ c). nums[a] + nums[b] + nums[c] + nums[d] == target
    - Difficulty: Medium
    - Platform: `Leetcode`
    - Tags: `Array`,`Spiral matrix`
-   - [Solution:9](https://github.com/ChetanChoudhary007/Data_Structure_and_Algorithm/blob/main/Array_medium/Spiral_matrix_level2.py)
+   - [Solution:11](https://github.com/ChetanChoudhary007/Data_Structure_and_Algorithm/blob/main/Array_medium/Spiral_matrix_level2.py)
+
+
+12. Problem 12: [setMatrixZeros](setMatrixZeros)
+   - Description:Given an m x n integer matrix matrix, if an element is 0, set its entire row and column to 0's.
+   You must do it in place.
+     
+   eg: Input: matrix = [[1,1,1],[1,0,1],[1,1,1]]
+     
+         Output: [[1,0,1],[0,0,0],[1,0,1]]
+     
+   - Difficulty: Medium
+   - Platform: `Leetcode`
+   - Tags: `Array`
+   - [Solution:12](https://github.com/ChetanChoudhary007/Data_Structure_and_Algorithm/blob/main/Array_medium/Set_matrix_0.py)
      
 <!-- Add more problems as needed -->
 
