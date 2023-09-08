@@ -24,35 +24,35 @@ Feel free to explore the problems, attempt them on your own, and compare your so
 
 Below is a list of DSA problems available in this repository:
 
-1. Problem 1: [countBits](countBits)
+Problem 1: [countBits](countBits)
    - Description: Given an integer n, return an array of length n + 1 such that for each i (0 <= i <= n), ans[i] is the number of 1's in the binary representation of i.
    - Difficulty: Easy.
    - Platform: `Leetcode`
    - Tags: `Array`
    - [Solution:1](https://github.com/ChetanChoudhary007/Data_Structure_and_Algorithm/blob/main/Arary_Easy/countBits.py)
 
-2. Problem 2: [NextPermutation](NextPermutation)
+Problem 2: [NextPermutation](NextPermutation)
    - Description: A permutation of an array of integers is an arrangement of its members into a sequence or linear order.
    - Difficulty: Medium
    - Platform: `Leetcode`
    - Tags: `Array`
    - [Solution:2](https://github.com/ChetanChoudhary007/Data_Structure_and_Algorithm/blob/main/Array_medium/next_permutation.py)
 
-3. Problem 3: [RevreseInteger](reverseInteger)
+Problem 3: [RevreseInteger](reverseInteger)
    - Description: Given a signed 32-bit integer x, return x with its digits reversed. If reversing x causes the value to go outside the signed 32-bit integer range [-2^31, 2^(31 - 1)],    then return 0.
    - Difficulty: Medium
    - Platform: `Leetcode`
    - Tags: `Array`
    - [Solution:3](https://github.com/ChetanChoudhary007/Data_Structure_and_Algorithm/blob/main/Array_medium/reverse_number.py)
      
-4. Problem 4: [MaximumSubarray](maximumSubarray)
+Problem 4: [MaximumSubarray](maximumSubarray)
    - Description: Given an integer array nums, find the subarray with the largest sum, and return its sum.
    - Difficulty: Medium
    - Platform: `Leetcode`
    - Tags: `Array`,`Kadane's Algorithm`
    - [Solution:4](https://github.com/ChetanChoudhary007/Data_Structure_and_Algorithm/blob/main/Array_medium/maximum_subarray.py)
 
-5. Problem 5: [SuperiorElements](superiorElements)
+Problem 5: [SuperiorElements](superiorElements)
    - Description: Given an array, print all the elements which are leaders. A Leader is an element that is greater than all of the elements on its right side in the array
    - Difficulty: Easy
    - Platform: `Coding ninja`
@@ -60,7 +60,7 @@ Below is a list of DSA problems available in this repository:
    - [Solution:5](https://github.com/ChetanChoudhary007/Data_Structure_and_Algorithm/blob/main/Arary_Easy/Superior_elements.py)
 
 
-6. Problem 6: [3Sum](3Sum)
+Problem 6: [3Sum](3Sum)
    - Description: Given an integer array nums, return all the triplets [nums[i], nums[j], nums[k]] such that i != j, i != k, and j != k, and nums[i] + nums[j] + nums[k] == 0.
 Notice that the solution set must not contain duplicate triplets.
    - Difficulty: Medium
@@ -68,7 +68,7 @@ Notice that the solution set must not contain duplicate triplets.
    - Tags: `Array`,`Two pointer approach`
    - [Solution:6](https://github.com/ChetanChoudhary007/Data_Structure_and_Algorithm/blob/main/Array_medium/3Sum.py)
 
-7. Problem 7: [4Sum](4Sum)
+Problem 7: [4Sum](4Sum)
    - Description:Given an array nums of n integers, return an array of all the unique quadruplets [nums[a], nums[b], nums[c], nums[d]] such that:
 a).0 <= a, b, c, d < n
 b). a, b, c, and d are distinct.
@@ -78,14 +78,14 @@ c). nums[a] + nums[b] + nums[c] + nums[d] == target
    - Tags: `Array`,`Two pointer approach`
    - [Solution:7](https://github.com/ChetanChoudhary007/Data_Structure_and_Algorithm/blob/main/Array_medium/4Sum.py)
 
-8. Problem 8: [Search_2D_matrix](Search_2D_matrix)
+Problem 8: [Search_2D_matrix](Search_2D_matrix)
    - Description: Given an integer target, return true if target is in matrix or false otherwise.
    - Difficulty: Medium
    - Platform: `Leetcode`
    - Tags: `Array`,`matrix undertanding`
    - [Solution:8](https://github.com/ChetanChoudhary007/Data_Structure_and_Algorithm/blob/main/Array_medium/search2D_matrix.py)
 
-9. Problem 9: [RotateMatrix](RotateMatrix)
+Problem 9: [RotateMatrix](RotateMatrix)
    - Description: You are given an n x n 2D matrix representing an image, rotate the image by 90 degrees (clockwise).
       You have to rotate the image in-place, which means you have to modify the input 2D matrix directly. DO NOT allocate another 2D matrix and do the rotation.
    - Difficulty: Medium
@@ -93,7 +93,7 @@ c). nums[a] + nums[b] + nums[c] + nums[d] == target
    - Tags: `Array`,`matrix undertanding`
    - [Solution:9](https://github.com/ChetanChoudhary007/Data_Structure_and_Algorithm/blob/main/Array_medium/Rotate_matrix.py)
 
-10. Problem 10: [SpiralMatrix](SpiralMatrix)
+Problem 10: [SpiralMatrix](SpiralMatrix)
    - Description: Given an m x n matrix, return all elements of the matrix in spiral order.
 
       eg: Input: matrix = [[1,2,3],[4,5,6],[7,8,9]]
@@ -105,7 +105,7 @@ c). nums[a] + nums[b] + nums[c] + nums[d] == target
    - Tags: `Array`
    - [Solution:10](https://github.com/ChetanChoudhary007/Data_Structure_and_Algorithm/blob/main/Array_medium/Spiral_matrix.py)
 
-11. Problem 11: [GenerateMatrix](GenerateMatrix)
+Problem 11: [GenerateMatrix](GenerateMatrix)
    - Description: Given a positive integer n, generate an n x n matrix filled with elements from 1 to n2 in spiral order.
      
      eg: Input: n = 3
@@ -118,7 +118,7 @@ c). nums[a] + nums[b] + nums[c] + nums[d] == target
    - [Solution:11](https://github.com/ChetanChoudhary007/Data_Structure_and_Algorithm/blob/main/Array_medium/Spiral_matrix_level2.py)
 
 
-12. Problem 12: [setMatrixZeros](setMatrixZeros)
+Problem 12: [setMatrixZeros](setMatrixZeros)
    - Description:Given an m x n integer matrix matrix, if an element is 0, set its entire row and column to 0's.
    You must do it in place.
      
@@ -130,6 +130,18 @@ c). nums[a] + nums[b] + nums[c] + nums[d] == target
    - Platform: `Leetcode`
    - Tags: `Array`
    - [Solution:12](https://github.com/ChetanChoudhary007/Data_Structure_and_Algorithm/blob/main/Array_medium/Set_matrix_0.py)
+
+Problem 13: [SubarraySumEqualK](SubarraySumEqualK)
+   - Description:Given an array of integers nums and an integer k, return the total number of subarrays whose sum equals to k.
+A subarray is a contiguous non-empty sequence of elements within an array.
+     
+   eg: Input: nums = [1,1,1], k = 2
+     
+         Output: 2
+   - Difficulty: Medium
+   - Platform: `Leetcode`
+   - Tags: `Array`,`presum concept`
+   - [Solution:13](https://github.com/ChetanChoudhary007/Data_Structure_and_Algorithm/blob/main/Array_medium/subarray_sum_equal_k.py)
      
 <!-- Add more problems as needed -->
 
