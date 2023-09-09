@@ -142,6 +142,17 @@ A subarray is a contiguous non-empty sequence of elements within an array.
    - Platform: `Leetcode`
    - Tags: `Array`,`presum concept`
    - [Solution:13](https://github.com/ChetanChoudhary007/Data_Structure_and_Algorithm/blob/main/Array_medium/subarray_sum_equal_k.py)
+
+Problem 14: [pascal'sTriangle](pascal'sTriangle)
+   - Description: Given an integer numRows, return the first numRows of Pascal's triangle.
+   eg: Input: numRows = 5
+     
+         Output: [[1],[1,1],[1,2,1],[1,3,3,1],[1,4,6,4,1]]
+     
+   - Difficulty: Easy
+   - Platform: `Leetcode`,`Coding ninja`
+   - Tags: `Array`,`Pascal's Triangle`,`Binomial coefficient concept`
+   - [Solution:14](https://github.com/ChetanChoudhary007/Data_Structure_and_Algorithm/blob/main/Arary_Easy/pascalsTriangle.py)
      
 <!-- Add more problems as needed -->
 
