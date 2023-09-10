@@ -167,6 +167,18 @@ Problem 15: [majorityElementII](majorityElementII)
    - Platform: `Leetcode`,`Coding ninja`
    - Tags: `Array`
    - [Solution:15](https://github.com/ChetanChoudhary007/Data_Structure_and_Algorithm/blob/main/Array_medium/Majority_Element_II.py)
+
+Problem 16: [twoSum](twoSum)
+   - Description: Given an array of integers nums and an integer target, return indices of the two numbers such that they add up to target.
+
+   eg: Input: nums = [2,7,11,15], target = 9
+     
+         Output:[0,1]
+         
+   - Difficulty: Easy
+   - Platform: `Leetcode`,`Coding ninja`
+   - Tags: `Array`
+   - [Solution:16](https://github.com/ChetanChoudhary007/Data_Structure_and_Algorithm/blob/main/Arary_Easy/TwoSum.py)
      
 <!-- Add more problems as needed -->
 
