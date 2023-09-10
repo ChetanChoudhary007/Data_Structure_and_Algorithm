@@ -133,8 +133,9 @@ Problem 12: [setMatrixZeros](setMatrixZeros)
 
 Problem 13: [SubarraySumEqualK](SubarraySumEqualK)
    - Description:Given an array of integers nums and an integer k, return the total number of subarrays whose sum equals to k.
-A subarray is a contiguous non-empty sequence of elements within an array.
+   A subarray is a contiguous non-empty sequence of elements within an array.
      
+   
    eg: Input: nums = [1,1,1], k = 2
      
          Output: 2
@@ -145,6 +146,8 @@ A subarray is a contiguous non-empty sequence of elements within an array.
 
 Problem 14: [pascal'sTriangle](pascal'sTriangle)
    - Description: Given an integer numRows, return the first numRows of Pascal's triangle.
+   
+   
    eg: Input: numRows = 5
      
          Output: [[1],[1,1],[1,2,1],[1,3,3,1],[1,4,6,4,1]]
@@ -153,6 +156,17 @@ Problem 14: [pascal'sTriangle](pascal'sTriangle)
    - Platform: `Leetcode`,`Coding ninja`
    - Tags: `Array`,`Pascal's Triangle`,`Binomial coefficient concept`
    - [Solution:14](https://github.com/ChetanChoudhary007/Data_Structure_and_Algorithm/blob/main/Arary_Easy/pascalsTriangle.py)
+
+Problem 15: [majorityElementII](majorityElementII)
+   - Description: Given an integer array of size n, find all elements that appear more than ⌊ n/3 ⌋ times.
+
+   eg: Input: nums = [3,2,3]
+     
+         Output:[3]
+   - Difficulty: Medium
+   - Platform: `Leetcode`,`Coding ninja`
+   - Tags: `Array`
+   - [Solution:15](https://github.com/ChetanChoudhary007/Data_Structure_and_Algorithm/blob/main/Array_medium/Majority_Element_II.py)
      
 <!-- Add more problems as needed -->
 
