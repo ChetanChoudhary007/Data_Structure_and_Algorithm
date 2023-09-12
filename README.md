@@ -179,6 +179,35 @@ Problem 16: [twoSum](twoSum)
    - Platform: `Leetcode`,`Coding ninja`
    - Tags: `Array`
    - [Solution:16](https://github.com/ChetanChoudhary007/Data_Structure_and_Algorithm/blob/main/Arary_Easy/TwoSum.py)
+
+Problem 17: [container_With_Maximum_water](container_With_Maximum_water)
+   - Description: You are given an integer array height of length n. There are n vertical lines drawn such that the two endpoints of the ith line are (i, 0) and (i, height[i]).
+              Return the maximum amount of water a container can store.
+
+   eg: height = [1,8,6,2,5,4,8,3,7]
+     
+         Output: 49
+         
+   - Difficulty: Medium
+   - Platform: `Leetcode`
+   - Tags: `Array`
+   - [Solution:17](https://github.com/ChetanChoudhary007/Data_Structure_and_Algorithm/blob/main/Array_medium/Container_with_maximum_water.py)
+
+Problem 18: [rotateArray](rotateArray)
+
+   - Description: Given an integer array nums, rotate the array to the right by k steps, where k is non-negative.
+
+
+   eg: nums = [1,2,3,4,5,6,7], k = 3
+     
+         Output:[5,6,7,1,2,3,4]
+         
+   - Difficulty: Easy
+   - Platform: `Leetcode`
+   - Tags: `Array`
+   - [Solution:18](https://github.com/ChetanChoudhary007/Data_Structure_and_Algorithm/blob/main/Arary_Easy/Rotate_array.py)
+
+
      
 <!-- Add more problems as needed -->
 
