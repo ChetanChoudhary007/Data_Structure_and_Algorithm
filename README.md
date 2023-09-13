@@ -207,6 +207,19 @@ Problem 18: [rotateArray](rotateArray)
    - Tags: `Array`
    - [Solution:18](https://github.com/ChetanChoudhary007/Data_Structure_and_Algorithm/blob/main/Arary_Easy/Rotate_array.py)
 
+Problem 19: [sort_array_0,1,2](sort_array_0,1,2)
+
+   - Description:
+     
+   eg:
+
+         Output:
+     
+   - Difficulty: Easy
+   - Platform: `Leetcode`
+   - Tags: `Array`
+   - [Solution:18]()
+
 
      
 <!-- Add more problems as needed -->
