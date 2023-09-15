@@ -220,7 +220,7 @@ Return the maximum amount of water a container can store.
    - Difficulty: Medium
    - Platform: `Leetcode`
    - Tags: `Array`
-   - [Solution:18]()
+   - [Solution:19]()
 
 
      
