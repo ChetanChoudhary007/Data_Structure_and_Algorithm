@@ -206,20 +206,8 @@ Problem 18: [rotateArray](rotateArray)
    - Tags: `Array`
    - [Solution:18](https://github.com/ChetanChoudhary007/Data_Structure_and_Algorithm/blob/main/Arary_Easy/Rotate_array.py)
 
-Problem 19: [sort_array_0,1,2](sort_array_0,1,2)
 
-   - Description: You are given an integer array height of length n. There are n vertical lines drawn such that the two endpoints of the ith line are (i, 0) and (i, height[i]).
-Find two lines that together with the x-axis form a container, such that the container contains the most water.
-Return the maximum amount of water a container can store.
-     
-   eg:    height = [1,8,6,2,5,4,8,3,7]
 
-         Output:   49
-     
-   - Difficulty: Medium
-   - Platform: `Leetcode`
-   - Tags: `Array`
-   - [Solution:19]
 
 
 
