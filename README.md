@@ -205,13 +205,7 @@ Problem 18: [rotateArray](rotateArray)
    - Platform: `Leetcode`
    - Tags: `Array`
    - [Solution:18](https://github.com/ChetanChoudhary007/Data_Structure_and_Algorithm/blob/main/Arary_Easy/Rotate_array.py)
-
-
-
-
-
-
-     
+  
 <!-- Add more problems as needed -->
 
 ## Solutions
