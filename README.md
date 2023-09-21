@@ -216,7 +216,7 @@ You can find solutions to the problems in this repository organized by programmi
 - [Java](java/)
 - [C++](cpp/)
 
-Each language directory contains solutions to the problems in that language. Feel free to contribute your own solutions or improve existing ones.
+
 
 
 ## Contributing
