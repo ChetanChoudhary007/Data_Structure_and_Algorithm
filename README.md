@@ -58,7 +58,6 @@ Problem 5: [SuperiorElements](superiorElements)
    - Tags: `Array`,`Basic`
    - [Solution:5](https://github.com/ChetanChoudhary007/Data_Structure_and_Algorithm/blob/main/Arary_Easy/Superior_elements.py)
 
-
 Problem 6: [3Sum](3Sum)
    - Description: Given an integer array nums, return all the triplets [nums[i], nums[j], nums[k]] such that i != j, i != k, and j != k, and nums[i] + nums[j] + nums[k] == 0.
 Notice that the solution set must not contain duplicate triplets.
