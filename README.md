@@ -22,8 +22,6 @@ Feel free to explore the problems, attempt them on your own, and compare your so
 
 ## Problem List
 
-Below is a list of DSA problems available in this repository:
-
 Problem 1: [countBits](countBits)
    - Description: Given an integer n, return an array of length n + 1 such that for each i (0 <= i <= n), ans[i] is the number of 1's in the binary representation of i.
    - Difficulty: Easy.
@@ -58,7 +56,6 @@ Problem 5: [SuperiorElements](superiorElements)
    - Platform: `Coding ninja`
    - Tags: `Array`,`Basic`
    - [Solution:5](https://github.com/ChetanChoudhary007/Data_Structure_and_Algorithm/blob/main/Arary_Easy/Superior_elements.py)
-
 
 Problem 6: [3Sum](3Sum)
    - Description: Given an integer array nums, return all the triplets [nums[i], nums[j], nums[k]] such that i != j, i != k, and j != k, and nums[i] + nums[j] + nums[k] == 0.
@@ -179,7 +176,34 @@ Problem 16: [twoSum](twoSum)
    - Platform: `Leetcode`,`Coding ninja`
    - Tags: `Array`
    - [Solution:16](https://github.com/ChetanChoudhary007/Data_Structure_and_Algorithm/blob/main/Arary_Easy/TwoSum.py)
+
+Problem 17: [container_With_Maximum_water](container_With_Maximum_water)
+   - Description: You are given an integer array height of length n. There are n vertical lines drawn such that the two endpoints of the ith line are (i, 0) and (i, height[i]).
+              Return the maximum amount of water a container can store.
+
+   eg: height = [1,8,6,2,5,4,8,3,7]
      
+         Output: 49
+         
+   - Difficulty: Medium
+   - Platform: `Leetcode`
+   - Tags: `Array`
+   - [Solution:17](https://github.com/ChetanChoudhary007/Data_Structure_and_Algorithm/blob/main/Array_medium/Container_with_maximum_water.py)
+
+Problem 18: [rotateArray](rotateArray)
+
+   - Description: Given an integer array nums, rotate the array to the right by k steps, where k is non-negative.
+
+
+   eg: nums = [1,2,3,4,5,6,7], k = 3
+     
+         Output:[5,6,7,1,2,3,4]
+         
+   - Difficulty: Easy
+   - Platform: `Leetcode`
+   - Tags: `Array`
+   - [Solution:18](https://github.com/ChetanChoudhary007/Data_Structure_and_Algorithm/blob/main/Arary_Easy/Rotate_array.py)
+  
 <!-- Add more problems as needed -->
 
 ## Solutions
@@ -190,7 +214,7 @@ You can find solutions to the problems in this repository organized by programmi
 - [Java](java/)
 - [C++](cpp/)
 
-Each language directory contains solutions to the problems in that language. Feel free to contribute your own solutions or improve existing ones.
+
 
 
 ## Contributing
@@ -204,4 +228,4 @@ Contributions are welcome! If you have additional problems, better solutions, or
 5. Commit your changes and push them to your fork.
 6. Create a pull request to this repository's main branch.
 
-## License
+
