@@ -217,6 +217,36 @@ Problem 19: [MergeOverlappedIntervals](MergeOverlappedIntervals)
    - Platform: `Leetcode`,`Coding Ninja`
    - Tags: `Array`
    - [Solution:19](https://github.com/ChetanChoudhary007/Data_Structure_and_Algorithm/blob/main/Array_medium/Merge_overlaped_intervals.py)
+
+Problem 20: [findDuplicates](findDuplicates)
+
+   - Description: Given an array of integers nums containing n + 1 integers where each integer is in the range [1, n] inclusive.
+     
+
+   eg: Input: nums = [1,3,4,2,2]
+         
+         Output: 2
+         
+   - Difficulty: Easy
+   - Platform: `Leetcode`,`Coding Ninja`
+   - Tags: `Array`
+   - [Solution:20](https://github.com/ChetanChoudhary007/Data_Structure_and_Algorithm/blob/main/Arary_Easy/findDuplicates.py)
+
+Problem 21: [MissingandRepeatednumber](MissingandRepeatednumber)
+
+   - Description: You are given a read only array of n integers from 1 to n.
+Each integer appears exactly once except A which appears twice and B which is missing.
+Return A and B.
+     
+
+   eg: Input:[3 1 2 5 3] 
+     
+         Output: [3, 4] 
+         
+   - Difficulty: Medium
+   - Platform: `Coding Ninja`
+   - Tags: `Array`
+   - [Solution:21](https://github.com/ChetanChoudhary007/Data_Structure_and_Algorithm/blob/main/Array_medium/missingAndRepeat.py)
   
 <!-- Add more problems as needed -->
 
